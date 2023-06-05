@@ -1,0 +1,27 @@
+.container {
+    width: 100%;
+}
+
+.box_left{
+    float:left;
+    margin:3px;
+    padding:0px;
+}
+.box_left li{
+    width:100%;
+    padding:2px;
+    list-style:none;
+}
+.box_right{
+    margin:3px;
+    float:right;
+    margin-right: 133px;
+    padding:0px;
+}
+.box_right li{
+    width:100%;
+    margin:0px;
+    padding:2px 0px;
+    text-align:left;
+    list-style:none;
+}

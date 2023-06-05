@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="dynamic@10.78.24.123:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="dynamic@10.78.24.123:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dynamic/energy_storage" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/dynamic/home" />
+            <excludedPath path="/home/dynamic/energy_storage/service/LKH" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
